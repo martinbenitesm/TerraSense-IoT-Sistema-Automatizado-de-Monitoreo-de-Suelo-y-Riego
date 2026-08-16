@@ -1,4 +1,6 @@
-# TerraSense IoT: Sistema Automatizado de Monitoreo de Suelo y Riego para Agricultura de Precisión
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=54&duration=3000&pause=1000&color=AB4616&center=true&vCenter=true&width=1000&height=80&lines=🍃+TerraSense+IoT+🍃" />
+</p>
 
 **TerraSense IoT** es una solución integral diseñada para optimizar el uso del recurso hídrico en el sector agrónomo mediante un ecosistema de **Agricultura de Precisión**. El sistema permite el monitoreo en tiempo real de variables climatológicas y edafológicas (humedad del suelo y temperatura ambiental) para automatizar el riego de forma inteligente, reduciendo el desperdicio de agua y maximizando la rentabilidad del cultivo.
 
