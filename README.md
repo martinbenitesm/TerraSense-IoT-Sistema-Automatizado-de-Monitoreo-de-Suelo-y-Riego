@@ -51,16 +51,8 @@ El sistema implementa medidas de protección avanzadas para garantizar la integr
 - **Firmas digitales** para actualizaciones de firmware vía OTA (Over The Air). 
 - **Listas de Control de Acceso (ACL)** estrictas en el bróker MQTT. 
 
-## 📂 Estructura del Repositorio
-
-- `/Docs`: Informe técnico detallado y diagramas de arquitectura. 
-- `/Simulation`: Archivos `.pkt` para Cisco Packet Tracer con la topología configurada. 
-- `/Scripts`: Código fuente en JavaScript para los nodos de borde (MCU). 
-
 ## 👨‍💻 Autor
 
 - **Benites Marin Martin Alberto** - *Desarrollo y Diseño Arquitectónico*. 
-
----
 
 *Este proyecto fue desarrollado bajo la supervisión del Prof. Wilmer Berrospi Taquire en el curso de Internet de las Cosas (2026) en la Universidad Nacional de Ingeniería.*
